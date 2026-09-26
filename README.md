@@ -120,20 +120,20 @@ A career platform combining learning, recruitment, institutes, students, and adm
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 LiveLingo
+### 🛡️ Stentor
 
-**Real-Time AI Translation & Speech Platform**
+**AI-Powered Financial Fraud & Compliance Analysis**
 
-`Python` `AWS IVS` `Sarvam API` `OBS` `AI`
+`Python` `FastAPI` `Supabase` `PostgreSQL` `pgvector` `OpenAI API`
 
-A real-time language communication system combining live streaming infrastructure with AI-powered speech and language processing.
+A RAG-powered backend that analyzes financial call transcripts to identify potential fraud and compliance signals.
 
-* Real-time streaming workflow
-* AWS IVS integration
-* AI-powered language processing
-* Sarvam API integration
-* OBS-based streaming pipeline
-* Backend-driven processing architecture
+* OpenAI embeddings with `pgvector` similarity search
+* Retrieval against fraud heuristics and compliance rules
+* Multi-stage reasoning with GPT-4o-mini
+* Grounded risk assessments and structured NLP insights
+* Automated incident analysis
+* PDF-based incident report generation
 
 </td>
 
@@ -157,6 +157,7 @@ A semantic desktop file-search system designed to make local files searchable us
 </td>
 </tr>
 </table>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
